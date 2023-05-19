@@ -75,7 +75,7 @@ module.exports = {
       },
       backgroundImage: {
         stripes:
-          'linear-gradient(to bottom, rgb(255,255,255,0.1 ),rgb(255,255,255,0.1) 12.5% trasparent 12.5%,trasparent )',
+          'linear-gradient(to bottom, rgb(255,255,255,0.1 ),rgb(255,255,255,0.1) 12.5% ,transparent 12.5%,transparent )',
       },
       backgroundSize: {
         stripes: '100% 8px',
